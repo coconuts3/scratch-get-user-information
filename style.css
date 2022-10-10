@@ -9,14 +9,14 @@ h1{
   font-size:100px;
 }
 
-input{
+#scratcher_name{
   border-radious:5px;
   border-color: 797979;
   width:50px;
   height:10px;
 }
 
-button{
+#search{
   border:none;
   background-color:#FAA755;
   width:30px;
